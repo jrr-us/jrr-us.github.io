@@ -11,20 +11,30 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.footer_fixed %}
+
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
     </div>
   </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
+
+  <footer class="sticky-bottom mt-5 bg-dark" role="contentinfo">
     {% if site.newsletter.enabled %}
       {% include newsletter.liquid %}
     {% endif %}
 
     <div class="container">
-      {{ footer_contents }}
+      <div class="row justify-content-sm-center">
+        <div class="col-sm-3 mt-5 mt-md-0 align-self-center">
+          {% include figure.liquid path="assets/img/logos/us.png" url="https://www.us.es" title="example image" class="img-fluid" %}
+        </div>
+        <div class="col-sm-3 mt-5 mt-md-0 align-self-center">
+          {% include figure.liquid path="assets/img/logos/csic.png" title="example image" class="img-fluid" %}
+        </div>
+        <div class="col-sm-2 mt-3 mt-md-0 align-self-center">
+          {% include figure.liquid path="assets/img/logos/junta.png" title="example image" class="img-fluid align-baseline" %}
+        </div>
+      </div>
     </div>
   </footer>
-{% endif %}
+
