@@ -2,6 +2,10 @@
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
+"ramirez-rico":
+  - firstname: ["Joaquin", "Joaquín", "J."]
+    url: https://www.elpais.es
+
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
