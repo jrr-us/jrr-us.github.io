@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hero/";
           },
-        },{id: "nav-news",
-          title: "news",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
         },{id: "nav-test",
           title: "test",
           description: "",
@@ -43,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-people",
-          title: "People",
-          description: "A list of people in the group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "nav-profiles",
           title: "profiles",
@@ -437,12 +423,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-simple-inline-announcement-he-conseguido-un-proyecto",
           title: 'A simple inline announcement. He conseguido un proyecto.',
           description: "",
-          section: "News",},{id: "people-joaquin-ramirez",
-          title: 'Joaquin Ramirez',
-          description: "University of Seville",
-          section: "People",handler: () => {
-              window.location.href = "/people/jrr/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
