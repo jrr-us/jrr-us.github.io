@@ -475,6 +475,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-catalytic-graphitization",
+          title: 'Catalytic graphitization',
+          description: "to produce more sustainable graphite",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/catalytic-graphitization/";
             },},{
         id: 'social-email',
         title: 'email',
