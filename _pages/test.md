@@ -17,7 +17,7 @@ Loren ipsum dolor...
             <div class="card-body">
                 <h5 class="card-title">Joaquín Ramírez Rico</h5>
                 <p class="card-text">Full Professor</p>
-                <a href="#">Go to full bio 📖</a>
+                <a href="/about-jrr/">Go to full bio 📖</a>
             </div>
         </div>
     </div>
