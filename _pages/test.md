@@ -15,7 +15,7 @@ Loren ipsum dolor...
         <div class="card hoverable h-100">
             {% include figure.liquid path="assets/img/people/avatar-1.jpg" title="One" class="card-img-top" %}
             <div class="card-body">
-                <h5 class="card-title">Joaquín Ramírez Rico</h5>
+                <h5 class="card-title">Joaquín Ramirez-Rico</h5>
                 <p class="card-text">Full Professor</p>
                 <a href="/about-jrr/">Go to full bio 📖</a>
             </div>
