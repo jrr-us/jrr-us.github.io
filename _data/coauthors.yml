@@ -4,7 +4,11 @@
 
 "ramirez-rico":
   - firstname: ["Joaquin", "Joaquín", "J."]
-    url: https://www.elpais.es
+    url: /about-jrr/
+
+"alba":
+  - firstname: ["Maria D.", "María D."]
+    url: /about-mda/
 
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]

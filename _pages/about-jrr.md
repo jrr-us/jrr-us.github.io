@@ -68,12 +68,11 @@ nav: false
       </section>
       <!-- Publications -->
       <section class="mb-4">
-        <h2>
+        <h3>
             <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
-        </h2>
-        {% include selected_papers.liquid %}
+        </h3>
         <div class="publications">
-          {% bibliography --group_by none --query @*[selected=true && author=ramirez-rico]* %}
+          {% bibliography --group_by none --query @*[selected=jrr]* %}
         </div>
       </section>
     </div>
