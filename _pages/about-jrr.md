@@ -72,7 +72,7 @@ nav: false
             <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
         </h3>
         <div class="publications">
-          {% bibliography --group_by none --query @*[selected=jrr]* %}
+          {% bibliography -f selected-jrr --group_by none %}
         </div>
       </section>
     </div>

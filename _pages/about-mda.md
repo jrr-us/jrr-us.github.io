@@ -38,7 +38,7 @@ nav: false
           <a href="https://www.scopus.com/authid/detail.uri?authorId=54981240100" title="Scopus">
           <i class="ai ai-scopus ai-2x"></i></a>
           <!-- Google Linkedin -->
-          <a href="https://www.linkedin.com/in/joaquin-ramirez-rico-a7a716a6/" title="Linkedin">
+          <a href="https://www.linkedin.com/in/maria-d-alba-81b336112/" title="Linkedin">
           <i class="fa-brands fa-linkedin fa-2x"></i></a>
         </div>
     </div>
@@ -75,7 +75,7 @@ nav: false
             <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
         </h3>
         <div class="publications">
-          {% bibliography --group_by none --query @*[selected=mda] %}
+          {% bibliography -f selected-mda --group_by none %}
         </div>
       </section>
     </div>
