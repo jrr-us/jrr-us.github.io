@@ -3,6 +3,8 @@
  * Tabler Icons 3.20.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */
+
+/*! Changed this to try and only use web-hosted versions of the font
 $ti-font-family: 'tabler-icons-filled' !default;
 $ti-font-path: './fonts' !default;
 $ti-font-display: null !default;
@@ -16,6 +18,23 @@ $ti-prefix: 'ti' !default;
   src: url('#{$ti-font-path}/tabler-icons-filled.woff2?v3.20.0') format('woff2'),
     url('#{$ti-font-path}/tabler-icons-filled.woff?') format('woff'),
     url('#{$ti-font-path}/tabler-icons-filled.ttf?v3.20.0') format('truetype');
+}
+*/
+
+$ti-font-family: 'tabler-icons-filled' !default;
+$ti-font-path: 'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.20.0/dist/fonts';
+$ti-font-display: swap !default; // 'swap' is better for performance than 'null'
+$ti-prefix: 'ti' !default;
+
+@font-face {
+  font-family: $ti-font-family;
+  font-style: normal;
+  font-weight: 400;
+  font-display: $ti-font-display;
+  // 2. Removed the redundant ?v3.20.0 query strings
+  src: url('#{$ti-font-path}/tabler-icons-filled.woff2') format('woff2'),
+       url('#{$ti-font-path}/tabler-icons-filled.woff') format('woff'),
+       url('#{$ti-font-path}/tabler-icons-filled.ttf') format('truetype');
 }
 
 .#{$ti-prefix} {
