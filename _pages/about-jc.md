@@ -1,7 +1,7 @@
 ---
 layout: default
 title: hero
-permalink: /about-jv/
+permalink: /about-jc/
 nav: false
 ---
 
