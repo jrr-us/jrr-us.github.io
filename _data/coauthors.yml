@@ -3,5 +3,21 @@
     url: /about-jrr/
 
 "alba":
-  - firstname: ["Maria D.", "María D."]
+  - firstname: ["Maria D.", "María D.", "M. D."]
     url: /about-mda/
+
+"zarrabeitia":
+  - firstname: ["Maider", "M."]
+    url: /about-mz/
+
+"coelho":
+  - firstname: ["Joao", "J.", "João"]
+    url: /about-jc/
+
+"pavon":
+  - firstname: ["Esperanza", "E."]
+    url: /about-ep/
+
+"benitez":
+  - firstname: ["J", "J.J.", "J. J."]
+    url: /about-jjb/
