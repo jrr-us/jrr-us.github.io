@@ -10,7 +10,7 @@ nav: false
     <!-- Left Column (20% width) -->
     <div class="col-lg-3 col-md-4 mb-4">
       <!-- Profile Image -->
-      {% include figure.liquid path="assets/img/people/avatar-mda.jpg" title="My Profile" class="rounded z-depth-1 rounded-circle" %}
+      {% include figure.liquid path="assets/img/people/avatar-mda.jpg" title="María D. Alba" class="rounded z-depth-1 rounded-circle" %}
       <!-- Affiliation -->
       <div class="mb-3">
         <h6 class="text-muted mb-1 tracking-wider">AFFILIATION</h6>
@@ -36,8 +36,8 @@ nav: false
           <i class="ai ai-google-scholar-square ai-2x"></i></a>
           <!-- Scopus -->
           <a href="https://www.scopus.com/authid/detail.uri?authorId=54981240100" title="Scopus">
-          <i class="ai ai-scopus ai-2x"></i></a>
-          <!-- Google Linkedin -->
+          <i class="ai ai-scopus-square ai-2x"></i></a>
+          <!-- Linkedin -->
           <a href="https://www.linkedin.com/in/maria-d-alba-81b336112/" title="Linkedin">
           <i class="fa-brands fa-linkedin fa-2x"></i></a>
         </div>

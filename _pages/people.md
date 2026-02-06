@@ -5,20 +5,15 @@ permalink: /people/
 nav: true
 ---
 
-# People here
-
-Loren ipsum dolor...
-
-
-<div class="row row-cols-1 row-cols-md-3 px-4 px-md-0">
+<div class="row row-cols-1 row-cols-md-4 px-4 px-md-0">
     <!-- JRR -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
             {% include figure.liquid path="assets/img/people/avatar-1.jpg" title="One" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">Joaquín Ramirez-Rico</h5>
-                <p class="card-text">Full Professor</p>
-                <a href="/about-jrr/">Go to full bio 📖</a>
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">J. Ramirez-Rico</h5>
+                <p class="card-text mb-1">Full Professor</p>
+                <a href="/about-jrr/" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>
@@ -26,50 +21,54 @@ Loren ipsum dolor...
     <div class="col mb-4">
         <div class="card hoverable h-100">
             {% include figure.liquid path="assets/img/people/avatar-mda.jpg" title="María D. Alba" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">María D. Alba</h5>
-                <p class="card-text">Research Scientist - CSIC</p>
-                <a href="/about-mda/">Go to full bio 📖</a>
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">María D. Alba</h5>
+                <p class="card-text mb-1">Research Scientist - CSIC</p>
+                <a href="/about-mda/" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>
+    <!-- EP -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
             {% include figure.liquid path="assets/img/people/avatar-2.jpg" title="One" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">Esperanza Pavón González</h5>
-                <p class="card-text">Associate Professor</p>
-                <a href="#">Go to full bio 📖</a>
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">Esperanza Pavón</h5>
+                <p class="card-text mb-1">Associate Professor</p>
+                <a href="#" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>
+    <!-- JC -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
-            {% include figure.liquid path="assets/img/people/avatar-3.jpg" title="One" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">João C. Mesquita Coelho</h5>
-                <p class="card-text">EMERGIA Fellow</p>
-                <a href="#">Go to full bio 📖</a>
+            {% include figure.liquid path="assets/img/people/avatar-jc.jpg" title="One" class="card-img-top" %}
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">João Coelho</h5>
+                <p class="card-text mb-1">EMERGIA Fellow</p>
+                <a href="/about-jc/" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>
+    <!-- MZ -->
+    <div class="col mb-4">
+        <div class="card hoverable h-100">
+            {% include figure.liquid path="assets/img/people/avatar-mz.jpg" title="One" class="card-img-top" %}
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">Maider Zarrabeitia</h5>
+                <p class="card-text mb-1">Tenured Scientist - CSIC</p>
+                <a href="/about-mz/" class="mt-auto">Go to full bio 📖</a>
+            </div>
+        </div>
+    </div>
+    <!-- ARAL -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
             {% include figure.liquid path="assets/img/people/avatar-1.jpg" title="One" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">Antonio R. de Arellano-López</h5>
-                <p class="card-text">Full Professor</p>
-                <a href="#">Go to full bio 📖</a>
-            </div>
-        </div>
-    </div>
-    <div class="col mb-4">
-        <div class="card hoverable h-100">
-            {% include figure.liquid path="assets/img/people/avatar-2.jpg" title="One" class="card-img-top" %}
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#">Go to full bio 📖</a>
+            <div class="card-body py-3 d-flex flex-column">
+                <h5 class="card-title mb-1">A. R. de Arellano-López</h5>
+                <p class="card-text mb-1">Full Professor</p>
+                <a href="#" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>

@@ -27,16 +27,19 @@ nav: false
       </div>
       <!-- Social Icons -->
       <div class="mt-4">
-        <!-- Google Scholar -->
         <h6 class="text-muted mb-1 tracking-wider">LINKS</h6>
+        <!-- ORCID -->
+        <a href="https://orcid.org/0000-0002-1184-0756" title="ORCID">
+        <i class="ai ai-orcid-square ai-2x"></i></a>
+        <!-- Google Scholar -->
         <a href="https://scholar.google.com/citations?user=xZAS4bUAAAAJ" title="Google Scholar">
         <i class="ai ai-google-scholar-square ai-2x"></i></a>
         <!-- Scopus -->
         <a href="https://www.scopus.com/authid/detail.uri?authorId=1234567890" title="Scopus">
-        <i class="ai ai-scopus ai-2x"></i></a>
-        <a href="https://www.linkedin.com/in/joaquin-ramirez-rico-a7a716a6/" title="Scopus">
+        <i class="ai ai-scopus-square ai-2x"></i></a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/joaquin-ramirez-rico-a7a716a6/" title="Linkedin">
         <i class="fa-brands fa-linkedin fa-2x"></i></a>
-        <!-- Google Scholar -->
       </div>
     </div>
     <!-- Right Column (Main Content) -->
