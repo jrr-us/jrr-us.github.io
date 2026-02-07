@@ -103,6 +103,11 @@ ninja.data = [{
           description: "to produce more sustainable graphite",
           section: "Projects",handler: () => {
               window.location.href = "/projects/catalytic-graphitization/";
+            },},{id: "projects-electro-active-materials",
+          title: 'Electro-active materials',
+          description: "for Beyond-Li batteries and their interphases",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electro-active-materials/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
