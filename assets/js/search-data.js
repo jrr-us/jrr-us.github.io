@@ -3,20 +3,13 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-hero",
-          title: "hero",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hero/";
-          },
-        },{id: "nav-people",
+  },{id: "nav-people",
           title: "people",
           description: "",
           section: "Navigation",
@@ -50,8 +43,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-he-conseguido-un-proyecto",
-          title: 'A simple inline announcement. He conseguido un proyecto.',
+          section: "News",},{id: "news-prueba-de-anuncio",
+          title: 'Prueba de anuncio.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
