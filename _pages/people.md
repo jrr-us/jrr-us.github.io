@@ -64,11 +64,11 @@ nav: true
     <!-- ARAL -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
-            {% include figure.liquid path="assets/img/people/avatar-1.jpg" title="One" class="card-img-top" %}
+            {% include figure.liquid path="assets/img/people/avatar-aral.jpg" title="One" class="card-img-top" %}
             <div class="card-body py-3 d-flex flex-column">
-                <h5 class="card-title mb-1">A. R. de Arellano-López</h5>
+                <h5 class="card-title mb-1">A. R. de Arellano</h5>
                 <p class="card-text mb-1">Full Professor</p>
-                <a href="#" class="mt-auto">Go to full bio 📖</a>
+                <a href="/about-aral/" class="mt-auto">Go to full bio 📖</a>
             </div>
         </div>
     </div>

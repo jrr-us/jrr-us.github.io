@@ -9,14 +9,15 @@ announcements:
 social: true
 ---
 
-<div class="px-4 py-3 text-center rounded">
+<div class="text-center">
   <img
     class="d-block mx-auto mb-4"
     src="/assets/img/logos/hero-logo.svg"
     alt=""
     width="120"
   />
-  <h1 class="display-5 fw-bold text-body-emphasis">Materials for Energy and Sustainability</h1>
+  <h1 class="display-5 fw-bold text-body-emphasis">MatES</h1>
+  <h2 class="display-5 fw-bold text-body-emphasis">Materials for Energy and Sustainability</h2>
   </div>
   <div class="py-3 rounded">
   <div class="col-lg-11 mx-auto">
