@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement. He conseguido un proyecto.
+Prueba de anuncio.
