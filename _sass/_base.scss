@@ -1028,6 +1028,12 @@ progress::-moz-progress-bar {
     opacity: 1;
   }
 }
+/* JRR edit */
+
+.btn-secondary {
+  background-color: var(--global-theme-color) !important;
+  color: #{$black-color};
+}
 
 .btn-group.dropdown {
   .btn {
