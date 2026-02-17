@@ -9,17 +9,16 @@ announcements:
 social: true
 ---
 
-<div class="text-center">
-  <img
-    class="d-block mx-auto mb-4"
-    src="/assets/img/logos/hero-logo.svg"
-    alt=""
-    width="120"
-  />
-  <h1 class="display-5 fw-bold text-body-emphasis">MatES</h1>
-  <h2 class="display-5 fw-bold text-body-emphasis">Materials for Energy and Sustainability</h2>
+<div class="row justify-content-center text-center mb-4">
+  <div class="col-5 col-sm- col-md-6">
+    {% include figure.liquid loading="eager" path="assets/img/logos/mates-logo-light.svg" title="Logo" class="img-fluid only-light" %}
+    {% include figure.liquid loading="eager" path="assets/img/logos/mates-logo-dark.svg" title="Logo" class="img-fluid only-dark" %}
   </div>
-  <div class="py-3 rounded">
+</div>
+
+<h1 class="display-5 fw-bold text-body-emphasis text-center">Materials for Energy and Sustainability</h1>
+
+<div class="py-3 rounded">
   <div class="col-lg-11 mx-auto">
     <p class="lead mb-0">
       <p>Located at the <strong>Instituto de Ciencia de Materiales de Sevilla (ICMS)</strong>—a joint research center of the <a href='https://www.csic.es'>CSIC</a> and the <a href='https://www.us.es'>University of Seville</a>—the MatES Lab is dedicated to addressing the global challenges of the 21st century through advanced materials science.</p>

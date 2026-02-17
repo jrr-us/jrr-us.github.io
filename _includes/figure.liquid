@@ -2,7 +2,7 @@
 {% assign parts = include.path | split: '.' %}
 {% assign ext = parts.last %}
 
-<figure
+<figure class="mb-0"
   {% if include.slot %}
     slot="{{ include.slot }}"
   {% endif %}
