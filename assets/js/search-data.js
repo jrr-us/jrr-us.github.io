@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -91,6 +91,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-architected-carbon-lattices",
+          title: 'Architected carbon lattices',
+          description: "for Beyond-Li batteries and their interphases",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/carbon-microlattices/";
             },},{id: "projects-catalytic-graphitization",
           title: 'Catalytic graphitization',
           description: "to produce more sustainable graphite",
