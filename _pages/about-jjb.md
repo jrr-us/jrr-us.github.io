@@ -34,9 +34,9 @@ nav: false
           <!-- Scopus -->
           <a href="https://www.scopus.com/authid/detail.uri?authorId=7203010370" title="Scopus">
           <i class="ai ai-scopus-square ai-2x"></i></a>
-          <!-- Publons -->
-          <a href="https://www.researchgate.net/profile/Antonio-Ramirez-De-Arellano-Lopez" title="Researchgate">
-          <i class="ai ai-researchgate-square ai-2x"></i></a>
+          <!-- ResearcherID -->
+          <a href="https://www.webofscience.com/wos/author/record/K-5662-2014" title="Researcher ID">
+          <i class="ai ai-researcherid-square ai-2x"></i></a>
         </div>
     </div>
     <!-- Right Column (Main Content) -->
