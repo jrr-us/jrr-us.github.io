@@ -10,7 +10,7 @@ nav: false
     <!-- Left Column (20% width) -->
     <div class="col-lg-3 col-md-4 mb-4">
       <!-- Profile Image -->
-      {% include figure.liquid path="assets/img/people/avatar-aral.jpg" title="José Jesús Benítez" class="rounded z-depth-1 rounded-circle" %}
+      {% include figure.liquid path="assets/img/people/avatar-jjb.jpg" title="José Jesús Benítez" class="rounded z-depth-1 rounded-circle" %}
       <!-- Affiliation -->
       <div class="mb-3">
         <h6 class="text-muted mb-1 tracking-wider">AFFILIATION</h6>
