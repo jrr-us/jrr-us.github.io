@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Architected carbon lattices
-description: for Beyond-Li batteries and their interphases
+description: via 3D printing and pyrolysis
 img: assets/img/projects/architected-carbon-splash.jpg
 importance: 1
 category: work

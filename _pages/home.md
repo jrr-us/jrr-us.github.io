@@ -10,14 +10,13 @@ social: true
 ---
 
 <div class="row justify-content-center text-center mb-4">
-  <div class="col-5 col-sm- col-md-6">
+  <div class="col-8 col-xl-4 col-lg-4 col-md-4 col-sm-6">
     {% include figure.liquid loading="eager" path="assets/img/logos/mates-logo-light.svg" title="Logo" class="img-fluid only-light" %}
     {% include figure.liquid loading="eager" path="assets/img/logos/mates-logo-dark.svg" title="Logo" class="img-fluid only-dark" %}
   </div>
 </div>
 
 <h1 class="display-5 fw-bold text-body-emphasis text-center">Materials for Energy and Sustainability</h1>
-
 <div class="py-3 rounded">
   <div class="col-lg-11 mx-auto">
     <p class="lead mb-0">
@@ -32,7 +31,7 @@ social: true
       </ul>
       <p>We invite you to explore our publications, learn about our ongoing projects, and connect with our team of scientists.</p>
     </p>
-    <div class="d-flex flex-wrap justify-content-center gap-2">
+    <div class="d-flex flex-wrap justify-content-center gap-2 mb-3">
       <a href="/projects/" class="btn btn-secondary btn-lg px-4" role="button">
         ⚛️ Learn about our research
       </a>
@@ -43,27 +42,26 @@ social: true
         📖 Check out our papers
       </a>
     </div>
+    <!-- News -->
+    <div class="post">
+      {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+      </h2>
+      {% include news.liquid limit=true %}
+      {% endif %} 
+    </div>
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
   </div>
 </div>
 
-<!-- News -->
-<div class="post">
-  {% if page.announcements and page.announcements.enabled %}
-    <h2>
-      <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-    </h2>
-    {% include news.liquid limit=true %}
-  {% endif %}
 
-<!-- Social -->
-  {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">{% include social.liquid %}</div>
-      <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
-  {% endif %}
-
-</div>
 
 
 
