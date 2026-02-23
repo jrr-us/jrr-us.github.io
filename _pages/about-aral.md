@@ -16,10 +16,9 @@ nav: false
       <!-- Affiliation -->
       <div class="mb-3">
         <h6 class="text-muted mb-1 tracking-wider">AFFILIATION</h6>
-        <p class="mb-0">Universidad de Sevilla<br>
-        Condensed Matter Physics Department<br>
+        <p class="mb-0">University of Seville<br>
         Materials Science Institute<br>
-        Sevilla, Spain</p>
+        Seville, Spain</p>
       </div>
       <div class="mb-3">
         <h6 class="text-muted mb-1 tracking-wider">CONTACT</h6>
@@ -51,7 +50,7 @@ nav: false
     <!-- Right Column (Main Content) -->
     <div class="col-lg-9 col-md-8">
       <h1 class="mb-3">Prof. Antonio R. de Arellano</h1>
-      <h4 class="text-muted mb-4">Full Professor, US</h4>
+      <h4 class="text-muted mb-4">Full Professor, University of Seville</h4>
       <!-- About Section -->
       <section class="mb-4">
         <h3>About</h3>

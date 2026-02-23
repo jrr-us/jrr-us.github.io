@@ -18,7 +18,7 @@ nav: false
         <h6 class="text-muted mb-1 tracking-wider">AFFILIATION</h6>
         <p class="mb-0">Spanish National Research Council<br>
         Materials Science Institute<br>
-        Sevilla, Spain</p>
+        Seville, Spain</p>
       </div>
       <div class="mb-3">
         <h6 class="text-muted mb-1 tracking-wider">CONTACT</h6>

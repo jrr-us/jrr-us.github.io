@@ -9,7 +9,7 @@ nav: true
     <!-- JRR -->
     <div class="col mb-4">
         <div class="card hoverable h-100">
-            {% include figure.liquid path="assets/img/people/avatar-1.jpg" title="One" class="card-img-top" %}
+            {% include figure.liquid path="assets/img/people/avatar-jrr.jpg" title="J. Ramirez-Rico" class="card-img-top" %}
             <div class="card-body py-3 d-flex flex-column">
                 <h5 class="card-title mb-1">J. Ramirez-Rico</h5>
                 <p class="card-text mb-1">Full Professor - US</p>
