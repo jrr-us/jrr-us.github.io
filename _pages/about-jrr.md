@@ -37,7 +37,7 @@ nav: false
         <a href="https://scholar.google.com/citations?user=xZAS4bUAAAAJ" title="Google Scholar">
         <i class="ai ai-google-scholar-square ai-2x"></i></a>
         <!-- Scopus -->
-        <a href="https://www.scopus.com/authid/detail.uri?authorId=1234567890" title="Scopus">
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=12769290000" title="Scopus">
         <i class="ai ai-scopus-square ai-2x"></i></a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/joaquin-ramirez-rico-a7a716a6/" title="Linkedin">

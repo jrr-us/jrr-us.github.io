@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Electro-active materials 
-description: for Beyond-Li batteries and their interphases
+title: Beyond Li-batteries
+description: Electro-active materials and their interfaces
 img: assets/img/projects/project-electrodes-splash.jpg
 importance: 1
 category: work

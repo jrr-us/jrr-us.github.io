@@ -3,6 +3,7 @@ layout: default
 title: people
 permalink: /people/
 nav: true
+nav_order: 2
 ---
 
 <div class="row row-cols-1 row-cols-md-4 px-4 px-md-0">
