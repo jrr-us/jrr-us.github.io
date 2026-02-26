@@ -3,7 +3,7 @@
     url: /about-jrr/
 
 "alba":
-  - firstname: ["Maria D.", "María D.", "M. D."]
+  - firstname: ["Maria D.", "María D.", "M. D.", "M.D."]
     url: /about-mda/
 
 "zarrabeitia":
@@ -16,7 +16,7 @@
 
 "pavon":
   - firstname: ["Esperanza", "E."]
-    url: /about-ep/
+    url: /about-epg/
 
 "benitez":
   - firstname: ["J", "J.J.", "J. J.", "José J."]
@@ -25,3 +25,7 @@
 "de arellano-lopez":
   - firstname: ["Antonio", "Antonio R.", "A.R.", "A. R."]
     url: /about-aral/
+
+"gomez-martin":
+  - firstname: ["A.", "A", "Aurora"]
+    url: /about-agm/

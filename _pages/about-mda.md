@@ -51,15 +51,10 @@ nav: false
       <!-- About Section -->
       <section class="mb-4">
         <h3>About</h3>
-        <p>
-          Scientist specializing in Materials Science and Technology, with experience in the
-          development, characterization, and analysis of sustainable materials from an experimental and
-          applied perspective. Her scientific trajectory focuses on the generation of knowledge based on
-          rigorous methodologies, interdisciplinary research, and the transfer of results toward
-          technological applications. She has participated in research projects aimed at understanding
-          the relationship between structure, properties, and performance of materials, contributing to
-          advances in the field and fostering high-level scientific collaborations.
-        </p>
+        <p>Dr. Alba is a Research Scientist at the CSIC. She has teaching and research experience spanning 35 years and has been granted six five-year terms and five six-year terms. She is accredited by the Council of Universities for a Full Professor position. She is a scientist specializing in Materials Science and Technology, with experience in the development, characterization, and analysis of sustainable materials from an experimental and applied perspective. Her scientific trajectory focuses on the generation of knowledge based on rigorous methodologies, interdisciplinary research, and the transfer of results toward technological applications. She has participated in research projects aimed at understanding the relationship between structure, properties, and performance of materials, contributing to advances in the field and fostering high-level scientific collaborations.</p>
+        <p>She has published extensively in SCI journals, with a significant proportion of her work appearing in first-quartile publications, including Open Access reviews by invitation. She has contributed her own results at numerous national and international conferences and has been invited to give talks in seminars and conference series. Her work has earned her the Extraordinary Doctorate Award, granted by the University of Seville, and the Young Investigators Award of the Real Maestranza de Caballería, awarded by the Royal Academy of Sciences of Seville.</p>
+        <p>She has been responsible for teaching undergraduate, postgraduate, and Master&#39;s theoretical courses at the University of Seville. She has participated in teaching innovation projects and has a contribution in the journal <em>Enseñanza Universitaria</em>. She has been the director of a postgraduate course at the CSIC and has been invited to participate in postgraduate and Master&#39;s courses at IACT, ICV, Peking University (China), the University of Córdoba, the State University of Londrina (Brazil), and the Pedagogical and Technological University of Colombia (Tunja, Colombia). She has directed multiple Bachelor&#39;s theses, doctoral theses, Final Degree Projects, and Master&#39;s Final Projects, and has tutored Erasmus Mundus students. Currently, she directs one doctoral thesis.</p>
+        <p>Since December 2012, she has been the head of the ICMS &quot;Design of Materials for Energy and Environment&quot; research group and, since 2017, also of the Solid-State Chemistry group (FQM-212) of the Junta de Andalucía. She has been the scientific manager of cicCartuja&#39;s Solid-State Nuclear Magnetic Resonance Service and the director of the ICMS Spectroscopy Service.</p>
       </section>
       <!-- Research Interests -->
       <section class="mb-4">

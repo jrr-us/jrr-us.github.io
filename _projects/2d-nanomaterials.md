@@ -3,7 +3,7 @@ layout: page
 title: 2D nanomaterials
 description: for green energy storage and beyond
 img: assets/img/projects/2d-nanomaterials-splash.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 toc:

@@ -3,7 +3,7 @@ layout: page
 title: Architected carbon lattices
 description: via 3D printing and pyrolysis
 img: assets/img/projects/architected-carbon-splash.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 toc:

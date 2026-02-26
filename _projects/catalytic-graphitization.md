@@ -3,7 +3,7 @@ layout: page
 title: Catalytic graphitization
 description: to produce more sustainable graphite
 img: assets/img/projects/graphitization-splash_2.jpg
-importance: 1
+importance: 4
 category: work
 related_publications: false
 toc:
