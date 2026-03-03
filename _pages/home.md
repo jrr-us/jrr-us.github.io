@@ -32,7 +32,7 @@ social: true
       <p>We invite you to explore our publications, learn about our ongoing projects, and connect with our team of scientists.</p>
     </p>
     <div class="d-flex flex-wrap justify-content-center gap-2 mb-3">
-      <a href="/projects/" class="btn btn-secondary btn-lg px-4" role="button">
+      <a href="/research/" class="btn btn-secondary btn-lg px-4" role="button">
         ⚛️ Learn about our research
       </a>
       <a href="/people/" class="btn btn-secondary btn-lg px-4" role="button">
